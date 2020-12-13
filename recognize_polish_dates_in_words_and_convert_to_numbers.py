@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 
 import re
+aa=0
+bb=1
 
 day_dict = {'^pierwsz.*': 1,'^drug.*': 2,'^trzec.*': 3,'^czwart.*': 4,'^piąt.*': 5,'^szóst.*': 6,'^siódm.*': 7,
 '^ósm.*': 8,'^dziewiąt.*': 9,'^dziesiąt.*': 10,'^jedenast.*': 11,'^dwunast.*': 12,'^trzynast.*': 13,
